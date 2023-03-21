@@ -8,6 +8,7 @@ I'm looking for a back-end job.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [maztermoon@gmai.com](mailto:maztermoon@gmai.com)
+* Skills : Basic - middle
 
 ### Skills
 
