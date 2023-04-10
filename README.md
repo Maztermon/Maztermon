@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nathawat Nampeng
 ========================================================================================================================================
 
-Software Developer
+   Developer
 ------------------
 
-I'm looking for a back-end job.
+I'm looking for a Developer job.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [maztermoon@gmai.com](mailto:maztermoon@gmai.com)
