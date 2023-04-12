@@ -40,3 +40,7 @@ I'm looking for a Developer job.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Maztermon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+### Certificate
+
+<p align="left"> <a href="https://drive.google.com/drive/folders/1yyJ4BqPUODOudXqstQ5QUVoZSCeV-M-h?usp=sharing" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968523.png" width="32" height="32" /></a></p>
